@@ -1,3 +1,3 @@
-# Week 8: Introduction
-This week will give you a chance to apply what you learned so far.
-You will teach a slime to play volleyball in whatever way you see fit.
+# Week 9: The vacuum
+This week is another free-form assignment.
+You will write an environment to teach an agent how to control an automatic vacuum cleaner.
